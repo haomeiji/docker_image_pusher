@@ -9,3 +9,4 @@ ubuntu
 redis:6.0.8
 registry
 tomcat
+mysql:5.7
