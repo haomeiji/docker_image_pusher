@@ -8,3 +8,4 @@ hello-world
 ubuntu
 redis:6.0.8
 registry
+tomcat
