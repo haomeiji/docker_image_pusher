@@ -11,4 +11,4 @@ registry
 tomcat
 mysql:5.7
 centos:centos7
-portainer
+portainer/portainer-ce:latest
