@@ -14,3 +14,4 @@ centos:centos7
 portainer/portainer-ce:latest
 postgres:18.4
 dfs:6.09
+fastdfs:6.09
